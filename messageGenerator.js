@@ -58,4 +58,4 @@
  let randomPersonality = Math.floor(Math.random() * 3);
  let randomColor = Math.floor(Math.random() * 10);
 
- console.log(`Your chinise sing is: ${sings[randomSign].sign}, characteristics is ${sings[randomSign].personality[randomPersonality]} and luky color: ${color[randomColor]}`); 
+ console.log(`Your chinise sing is: ${sings[randomSign].sign}, characteristics is ${sings[randomSign].personality[randomPersonality]} and lucky color: ${color[randomColor]}`); 
